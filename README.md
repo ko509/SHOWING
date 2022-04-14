@@ -2,11 +2,12 @@
 
 뮤지컬/연극 소비자의 더 나은 경험과 선택을 위하여 <br>공연의 세부 정보를 통한 뮤지컬/연극 추천 데이터 및 리뷰 분석을 통한 키워드 워드클라우드를 제공합니다.<br>각 공연 당 별점 평가와 리뷰 작성이 가능하며, 다른 사람들의 리뷰 또한 확인 가능합니다.
 
-![슬라이드1](/uploads/72beaee38981b9bd88e9c7ef6e057cc3/슬라이드1.PNG)
+![슬라이드1](https://user-images.githubusercontent.com/62974220/163381079-3adc8abe-aaa5-4e94-a4a8-d3443cef405f.PNG)
 
-![슬라이드2](/uploads/a63b786b3d8a2160dc6b137de0114d54/슬라이드2.PNG)
+![슬라이드2](https://user-images.githubusercontent.com/62974220/163381072-5364cbbf-2aa7-4a1d-9d63-db3381fc1796.PNG)
 
-![슬라이드3](/uploads/b5a4e83e1365d052864b903a35bf6372/슬라이드3.PNG)
+![슬라이드3](https://user-images.githubusercontent.com/62974220/163381076-3971f9d4-ae3a-4a6b-9822-b6e9ff4f0c0e.PNG)
+
 
 <br>
 
